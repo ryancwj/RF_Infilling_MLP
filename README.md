@@ -1,6 +1,8 @@
 # RF_Infilling_MLP
 Infilling Missing Rainfall Data with MLP Regressor
-![output](https://user-images.githubusercontent.com/93307196/192237757-c629f971-168a-43e3-9810-50b778a61140.png)
+
+![output](https://user-images.githubusercontent.com/93307196/192239659-6c3b7c76-752a-47ed-a23b-d90f0fc879cd.png)
+
 Often rainfall (precipitation) stations have missing values in the dataset. This is usually overcome by supplementing satelite rainfall data or data from multiple nearby rainfall stations.
 This is considered as relaible when the nearby rainfall stations or satellite rainfall data strikes a high regression with the observed data.
 Due to the nature of storms which varies between time and space, rainfall stations are usually poorly correlated to one another. 
